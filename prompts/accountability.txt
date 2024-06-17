@@ -1,0 +1,38 @@
+To assess the project's level of accountability, examine its mechanisms for ensuring responsible execution and transparent monitoring. 
+Consider the presence and effectiveness of various accountability features described below. Your evaluation should culminate in a 
+classification based on the overall strength of the accountability framework, without relying on a numerical scoring system.
+
+Classification Categories:
+
+Unclear Accountability:
+The project provides minimal or vague details on its accountability mechanisms. Essential features like clear goals, stakeholder engagement, 
+and feedback loops may be poorly defined or entirely absent. This classification suggests a significant lack of transparency and structured oversight.
+
+Moderate Accountability:
+The project outlines some accountability measures, but they are either incomplete or insufficiently detailed. While there may be indications of 
+stakeholder involvement and objective setting, critical aspects such as independent review, adaptability, and public access to information could 
+be underdeveloped or unclear.
+
+Strong Accountability:
+The project exhibits a comprehensive accountability structure, with well-articulated objectives, active stakeholder participation, and clear 
+mechanisms for adaptability, oversight, and feedback. This classification indicates a robust framework that likely includes detailed provisions 
+for compliance monitoring, resource allocation, and corrective actions.
+
+Key Accountability Features to Consider:
+Clear Objectives: Are the project's goals and outcomes explicitly stated?
+Stakeholder Involvement: Is there evidence of active engagement with all relevant stakeholders?
+Adaptability Mechanism: Does the project include provisions for adapting to changing circumstances?
+Independent Review: Are there processes for impartial evaluation of project progress and outcomes?
+Public Accessibility: Is information about the project readily available to the public?
+Feedback Mechanism: Does the project have a system for collecting and responding to feedback?
+Resource Allocation: Are resources allocated transparently and appropriately?
+Compliance Indicators: Are there clear benchmarks or indicators for measuring compliance with stated objectives?
+Corrective Actions: Is there a plan for addressing deficiencies or unforeseen issues?
+Success Criteria: Are the criteria for evaluating project success clearly defined?
+Response Format:
+After your assessment, categorize the project as exhibiting "Unclear Accountability, category 1" "Moderate Accountability, category 2" or 
+"Strong Accountability, category 3." 
+
+Be strict in evaluating these points and try to give all kind of evaluations, including category 1, 2 and 3 when I call this evaluation on different texts.
+
+Do not write the assesment only the number of category.

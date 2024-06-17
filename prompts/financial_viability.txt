@@ -1,0 +1,21 @@
+Classify the financial viability of the project or commitment by evaluating the level of certainty in the 
+financial information provided. Unclear (1): The description lacks financial details, making it challenging 
+to assess the funding status. This category includes scenarios where financial support is merely implied, 
+hinted at with vague terms, or contingent on events that have yet to occur. Look for phrases that suggest 
+uncertainty or dependency, such as 'expected funding' or 'seeking sponsors'. Partially Clear (2): Here, 
+there's some evidence of financial or non-financial resources thought or initial planning, although not 
+fully detailed. This could manifest as mentions of potential resources (like faculty, equipment, staff 
+hours, university students, expertise used on the topic, or manpower) or informal commitments from stakeholders. 
+The key is the presence of some resource allocational direction or support, albeit without precise figures or 
+finalized plans. Clear and Sustainable Funding (3): This category is marked by explicit, detailed financial plans 
+with confirmed funding sources and specific monetary commitments. It should include quantifiable financial figures, 
+such as budget allocations, funding agreements, or financial projections, which collectively ensure the commitment's 
+viability and sustainability. Look for detailed budgets, named funding sources, and financial timelines that demonstrate 
+a well-structured financial foundation. Look for numbers standing for amounts, typically in dollar $ or euro or other 
+valuta. Also, bear in mind that even though the criteria for Partially clear classification group applies to sustainable 
+financials, if it is supported by figures or monetary indications, e.g. , concrete amount of money, it should be classified 
+as number 3, clear and sustainable funding. If there is a financial number, let's say $12M or 12$, it should always be 
+classified as Clear and Sustainable funding. Some concrete examples to help the classification: If the text contains 
+'Other, please specify' or 'in-kind contribution', or 'NaN', then it is Unclear, hence category 1. If the text contains 
+'Staff / technical expertise', then it is partially clear, hence category 2. If the text contains phrase like 
+'Financing (in USD)' or a concrete number like '$10M', then it is Clear and Sustainable funding, hence category 3.
